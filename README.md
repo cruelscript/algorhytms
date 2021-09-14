@@ -7,6 +7,11 @@
 - ```constraints_classes.cpp``` - Constraints class which compiles only if T has function T* Clone() const
 - ```majority.cpp``` - an algorithm which checks if the desired element is the majority element in array
 - ```median.cpp``` - an algorithm which finds a median in an array
+- ```correct_parrentheses.cpp``` - check if the parentheses number and nesting is correct
+- ```tree_height.cpp``` - an algorithm which finds a height of a tree
+- ```packages.java``` - a simulation of a network packet processing
+- ```max_stack.cpp``` - a stack with a max element function
+- ```slide_max.cpp``` - A function which finds a max value in slide brackets
 
 ### Graphs ###
 
@@ -25,6 +30,11 @@
 - ```constraints_classes.cpp``` - Класс ограничений, который сократит время компиляции программы. Программы скомпилируется, если унаследованный класс будет иметь определенный метод
 - ```majority.cpp``` - Алгоритм, который проверяет является ли заданное число большинством в последовательности
 - ```median.cpp``` - Алгоритм, который ищет медиану заданной последовательности
+- ```correct_parrentheses.cpp``` - алгоритм проверки правильности расстановки скобок
+- ```tree_height.cpp``` - Алгоритм поиска высоты дерева
+- ```packages.java``` - симуляция обработки сетевых пакетов
+- ```max_stack.cpp``` - стек с поддержкой максимума
+- ```slide_max.cpp``` - максимум в скользящем окне
 
 ### Графы ###
 
