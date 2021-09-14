@@ -10,10 +10,10 @@
 
 ### Graphs ###
 
-```DFS.cpp``` - all basic algorithms with graphs (An algorithm which finds all SCC in graph, and finds it metagraph)
-```bellman-ford.cpp``` - a Bellman-Ford algorithm
-```directed_graph.hpp/cpp``` - A class of a DG of integer numbers
-```HornSAT.cpp``` - an algorithm which checks if the horn formula is satisfiable for linear time
+- ```DFS.cpp``` - all basic algorithms with graphs (An algorithm which finds all SCC in graph, and finds it metagraph)
+- ```bellman-ford.cpp``` - a Bellman-Ford algorithm
+- ```directed_graph.hpp/cpp``` - A class of a DG of integer numbers
+- ```HornSAT.cpp``` - an algorithm which checks if the horn formula is satisfiable for linear time
 
 # Алгоритмы #
 
@@ -28,7 +28,7 @@
 
 ### Графы ###
 
-```DFS.cpp``` - Все базовые алгоритмы с графами (Главный алгоритм: поиск всех ССК и построение на основе этих ССК метаграфа заданного графа)
-```bellman-ford.cpp``` - Алгоритм Беллмана-Форда
-```directed_graph.hpp/cpp``` - Класс ориентированного графа, хранящего значения целых чисел
-```HornSAT.cpp``` - Алгоритм, который проверяет выполнимост Хорновской формулы
+- ```DFS.cpp``` - Все базовые алгоритмы с графами (Главный алгоритм: поиск всех ССК и построение на основе этих ССК метаграфа заданного графа)
+- ```bellman-ford.cpp``` - Алгоритм Беллмана-Форда
+- ```directed_graph.hpp/cpp``` - Класс ориентированного графа, хранящего значения целых чисел
+- ```HornSAT.cpp``` - Алгоритм, который проверяет выполнимост Хорновской формулы
