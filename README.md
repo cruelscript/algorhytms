@@ -12,6 +12,10 @@
 - ```packages.java``` - a simulation of a network packet processing
 - ```max_stack.cpp``` - a stack with a max element function
 - ```slide_max.cpp``` - A function which finds a max value in slide brackets
+- ```heap.py``` - a heap construction algorithm
+- ```parallel.py``` - a parallel processing using heap
+- ```tables_joint.py``` - an algorithm of joining two tables
+- ```pattern.py``` - find a pattern in a text
 
 ### Graphs ###
 
@@ -35,6 +39,10 @@
 - ```packages.java``` - симуляция обработки сетевых пакетов
 - ```max_stack.cpp``` - стек с поддержкой максимума
 - ```slide_max.cpp``` - максимум в скользящем окне
+- ```heap.py``` - построение кучи
+- ```parallel.py``` - параллельная обработка с помощью кучи
+- ```tables_joint.py``` - объединение таблиц
+- ```pattern.py``` - поиск образца в тексте
 
 ### Графы ###
 
