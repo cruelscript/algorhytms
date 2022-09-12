@@ -1,7 +1,6 @@
 # Algorithms
 
 - [ci_string](./ci_string.cpp) - case insensitive string class which is identical to the ```std::string```
-- [Fixed vector](./fixed_vector.cpp) - implementation of a copy assignment and a copy construction in a vector with fixed length. 
 - [Flagnth](./flagnth.hpp) - functor which returns true if being called n times
 - [counted_ptr](./counted_ptr.hpp) - smart pointer, if created a copy of an object it will be pointed to the same object, destructor deletes object if being called for the last copy. 
 - [Constraints Class](./constraints_classes.cpp) - Constraints class which compiles only if T has function T* Clone() const
@@ -15,7 +14,6 @@
 # Алгоритмы #
 
 - [ci_string](./ci_string.cpp) - Строка, нечувствительная к регистру, полностью повторяющая функции ```std::string```
-- [Fixed vector](./fixed_vector.cpp) - Реализация простейшего контейнера (вектора фиксированный длины), особый акцент на конструктор копирования и присваивания
 - [Flagnth](./flagnth.hpp) - Функтор, который возвращает истину, если был вызван n раз
 - [counted_ptr](./counted_ptr.hpp) - Умный указатель, создание новой копии будет указывать на изначальный объект, вызов деструктора для последней копии удаляет сам объект
 - [Constraints Class](./constraints_classes.cpp) - Класс ограничений, который сократит время компиляции программы. Программы скомпилируется, если унаследованный класс будет иметь определенный метод
