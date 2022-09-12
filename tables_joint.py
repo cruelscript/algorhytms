@@ -6,11 +6,13 @@ for i, x in enumerate(input().split()):
     tables[i] = [int(x), None]
     max_val = max(max_val, int(x))
 
+
 def find(i):
     if tables[i][1] is None:
         return i
     tables[i][1] = find(tables[i][1])
     return tables[i][1]
+
 
 for _ in range(m):
     dest, src = [find(int(x) - 1) for x in input().split()]
