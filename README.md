@@ -8,6 +8,8 @@
 - [Slide max](./slide_max.cpp) - A function which finds a max value in slide brackets
 - [Tables Joint](./tables_joint.py) - an algorithm of joining two tables
 - [Pattern](./pattern.py) - find a pattern in a text
+- [String hashing](./string-hashing.py) - String hashing for fast string comparison in O(1) including algorithm
+to count all unique substrings in a string
 
 ## Bitwise operations
 
